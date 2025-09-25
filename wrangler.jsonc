@@ -1,0 +1,8 @@
+{
+  "name": "lunarsync",
+  "compatibility_date": "2025-09-25",
+  "assets": { "directory": "./public" },
+  "routes": [
+    { "pattern": "yourdomain.com", "custom_domain": true }
+  ]
+}
