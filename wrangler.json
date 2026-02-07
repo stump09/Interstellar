@@ -1,9 +1,9 @@
 {
   "name": "interstellar",
-  "main": "src/index.js",
+  "main": "index.js",
   "compatibility_date": "2026-02-06",
   "routes": [
-    { "pattern": "apexrstudios.org/*" },
-    { "pattern": "www.apexrstudios.org/*" }
+    "apexrstudios.org/*",
+    "www.apexrstudios.org/*"
   ]
 }
