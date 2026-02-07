@@ -1,10 +1,6 @@
 {
-  "name": "apexrstudios-worker-test",
-  "main": "worker.js",
-  "compatibility_date": "2026-02-06",
-  "compatibility_flags": ["nodejs_compat"],
-  "routes": [
-    "apexrstudios.org/*",
-    "www.apexrstudios.org/*"
-  ]
+  "name": "interstellar",
+  "main": "index.js",
+  "compatibility_date": "2026-02-07",
+  "compatibility_flags": ["nodejs_compat"]
 }
