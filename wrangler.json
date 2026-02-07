@@ -3,7 +3,7 @@
   "main": "index.js",
   "compatibility_date": "2026-02-06",
   "routes": [
-    "apexrstudios.org/*",
-    "www.apexrstudios.org/*"
+    { "pattern": "apexrstudios.org/*", "zone_name": "apexrstudios.org" },
+    { "pattern": "www.apexrstudios.org/*", "zone_name": "apexrstudios.org" }
   ]
 }
