@@ -2,6 +2,7 @@
   "name": "interstellar",
   "main": "index.js",
   "compatibility_date": "2026-02-06",
+  "compatibility_flags": ["nodejs_compat"],
   "routes": [
     { "pattern": "apexrstudios.org/*", "zone_name": "apexrstudios.org" },
     { "pattern": "www.apexrstudios.org/*", "zone_name": "apexrstudios.org" }
